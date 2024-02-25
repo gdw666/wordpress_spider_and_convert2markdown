@@ -1,0 +1,6 @@
+# 输出文件
+/export_html
+/export_markdown
+
+# 环境
+/.venv
